@@ -12,7 +12,7 @@ public class Pharmacien {
     private int id;
     private int Cin;
     private String name; 
-    ali
+    ali   khawla
     
     //Com
     
