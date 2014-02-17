@@ -10,5 +10,8 @@ package inoo.teamsjava;
  */
 public class Pharmacien {
     private int id;
+    private int Cin;
+    
+    //Com
     
 }
